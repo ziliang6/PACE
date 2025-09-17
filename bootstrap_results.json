@@ -1,0 +1,38 @@
+{
+    "mean": {
+        "arena_all_score": {
+            "mean_correlation": 0.6102544089274954,
+            "std_correlation": 0.027881142643054337,
+            "ci_lower": 0.5611139065020677,
+            "ci_upper": 0.6656447131684089,
+            "n_bootstrap": 1000,
+            "significant_ratio": 1.0,
+            "positive_significant_ratio": 1.0,
+            "median_p_value": 0.0007547443831726817
+        }
+    },
+    "mean_rank": {
+        "arena_all_score": {
+            "mean_correlation": 0.624084879809616,
+            "std_correlation": 0.031884536836651885,
+            "ci_lower": 0.5617463048198522,
+            "ci_upper": 0.6753167534029962,
+            "n_bootstrap": 1000,
+            "significant_ratio": 1.0,
+            "positive_significant_ratio": 1.0,
+            "median_p_value": 0.0004921433828963515
+        }
+    },
+    "sig_rank": {
+        "arena_all_score": {
+            "mean_correlation": 0.6244305741508064,
+            "std_correlation": 0.031253223685199186,
+            "ci_lower": 0.5643349241885892,
+            "ci_upper": 0.6739000387587736,
+            "n_bootstrap": 1000,
+            "significant_ratio": 1.0,
+            "positive_significant_ratio": 1.0,
+            "median_p_value": 0.0005083519681946026
+        }
+    }
+}
