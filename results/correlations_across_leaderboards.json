@@ -1,0 +1,27 @@
+{
+    "arena_all": {
+        "correlation": 0.6602136345026729,
+        "p_value": 7.191737723986456e-05,
+        "common_models_count": 30
+    },
+    "livebench": {
+        "correlation": 0.6912280701754386,
+        "p_value": 0.0010470965319447035,
+        "common_models_count": 19
+    },
+    "arena_cw": {
+        "correlation": 0.7385402942077423,
+        "p_value": 3.1695260751861e-06,
+        "common_models_count": 30
+    },
+    "mmlu_pro": {
+        "correlation": 0.5049407114624506,
+        "p_value": 0.013992895741102086,
+        "common_models_count": 23
+    },
+    "eq_bench": {
+        "correlation": 0.6367389060887513,
+        "p_value": 0.004489848099432227,
+        "common_models_count": 18
+    }
+}
